@@ -1,2 +1,2 @@
 # RickAndMortyApp
-An application for Rick And Morty serres
+An application for Rick And Morty series

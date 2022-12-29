@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+/// Controller to settings tab and app options
 final class RMSettingsViewController: UIViewController {
 
     override func viewDidLoad() {
